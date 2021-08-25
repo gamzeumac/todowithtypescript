@@ -29,7 +29,7 @@ function App() {
   return (
     <Container maxWidth="xs">
       <Typography style={{ textAlign: "center" }} variant="h3">
-        Redux List App
+        Redux-Typescript List App
       </Typography>
       <TextField
         variant="outlined"
